@@ -1,0 +1,8 @@
+# Hashes of file build rules.
+be432e5e463a6f33dcc750cc816da5c5 moc_context.cxx
+b6fc0232dc600024d4a09cef5cdad036 moc_mainwidget.cxx
+6efadf48e64bdc921cb45512f18ff4f1 moc_mainwindow.cxx
+18ff7cb31937eb3a3e4b873cbe1ac6f4 moc_poses.cxx
+8634d7e8022b802e299bb455437e147e moc_realobject.cxx
+a7d0728e299ad3e7294b7a4fcb235b8f moc_realobjectinformationwidget.cxx
+952299e1f78f6c33ee17c7c80c791c0c moc_xmlmanager.cxx
